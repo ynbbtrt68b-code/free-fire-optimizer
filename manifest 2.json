@@ -1,0 +1,9 @@
+{
+  "name": "FREE FIRE OPTIMIZER",
+  "short_name": "Free Fire Opt",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080d0a",
+  "theme_color": "#080d0a",
+  "icons": []
+}
